@@ -1,0 +1,82 @@
+{
+    "resources": {
+        "includes": [
+            {
+                "pattern": "\\QMETA-INF/org/apache/logging/log4j/core/config/plugins/Log4j2Plugins.dat\\E"
+            },
+            {
+                "pattern": "\\QMETA-INF/services/java.nio.file.spi.FileSystemProvider\\E"
+            },
+            {
+                "pattern": "\\QMETA-INF/services/org.apache.logging.log4j.core.util.ContextDataProvider\\E"
+            },
+            {
+                "pattern": "\\QMETA-INF/services/org.apache.logging.log4j.spi.Provider\\E"
+            },
+            {
+                "pattern": "\\QMETA-INF/services/org.apache.logging.log4j.util.PropertySource\\E"
+            },
+            {
+                "pattern": "\\Qgoogle/protobuf/descriptor.proto\\E"
+            },
+            {
+                "pattern": "\\Qgoogle/protobuf/timestamp.proto\\E"
+            },
+            {
+                "pattern": "\\Qgoogle/protobuf/wrappers.proto\\E"
+            },
+            {
+                "pattern": "\\Qgoogle/type/calendar_period.proto\\E"
+            },
+            {
+                "pattern": "\\Qgoogle/type/color.proto\\E"
+            },
+            {
+                "pattern": "\\Qgoogle/type/date.proto\\E"
+            },
+            {
+                "pattern": "\\Qgoogle/type/dayofweek.proto\\E"
+            },
+            {
+                "pattern": "\\Qgoogle/type/expr.proto\\E"
+            },
+            {
+                "pattern": "\\Qgoogle/type/fraction.proto\\E"
+            },
+            {
+                "pattern": "\\Qgoogle/type/interval.proto\\E"
+            },
+            {
+                "pattern": "\\Qgoogle/type/latlng.proto\\E"
+            },
+            {
+                "pattern": "\\Qgoogle/type/localized_text.proto\\E"
+            },
+            {
+                "pattern": "\\Qgoogle/type/money.proto\\E"
+            },
+            {
+                "pattern": "\\Qgoogle/type/month.proto\\E"
+            },
+            {
+                "pattern": "\\Qgoogle/type/phone_number.proto\\E"
+            },
+            {
+                "pattern": "\\Qgoogle/type/postal_address.proto\\E"
+            },
+            {
+                "pattern": "\\Qgoogle/type/quaternion.proto\\E"
+            },
+            {
+                "pattern": "\\Qgoogle/type/timeofday.proto\\E"
+            },
+            {
+                "pattern": "\\Qlog4j2.properties\\E"
+            },
+            {
+                "pattern": "\\Qorg/slf4j/impl/StaticLoggerBinder.class\\E"
+            }
+        ]
+    },
+    "bundles": []
+}

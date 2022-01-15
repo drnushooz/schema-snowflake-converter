@@ -1,0 +1,704 @@
+[
+    {
+        "name": "com.github.drnushooz.schema.snowflake.converter.LambdaRequestHandler",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "com.github.drnushooz.schema.snowflake.converter.LambdaRequestHandler$ResponseBody",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "com.github.drnushooz.schema.snowflake.converter.runtime.CustomLambdaRuntime",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "com.github.drnushooz.schema.snowflake.converter.runtime.CustomRuntimeContext",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "com.github.drnushooz.schema.snowflake.converter.runtime.SystemOutLambdaLogger",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"com.amazonaws.services.lambda.runtime.events.APIGatewayProxyRequestEvent",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"com.amazonaws.services.lambda.runtime.events.APIGatewayProxyRequestEvent$ProxyRequestContext",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"com.amazonaws.services.lambda.runtime.events.APIGatewayProxyRequestEvent$RequestIdentity",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"com.amazonaws.services.lambda.runtime.events.APIGatewayProxyResponseEvent",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.message.DefaultFlowMessageFactory",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.appender.AbstractAppender$Builder",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.appender.ConsoleAppender",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.appender.ConsoleAppender$Builder",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.AppenderRef",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.AppendersPlugin",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.LoggerConfig",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.LoggerConfig$RootLogger",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.LoggersPlugin",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$BigDecimalConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$BigIntegerConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$BooleanConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$ByteArrayConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$ByteConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$CharArrayConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$CharacterConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$CharsetConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$ClassConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$CronExpressionConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$DoubleConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$DurationConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$FileConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$FloatConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$InetAddressConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$IntegerConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$LevelConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$LongConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$PathConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$PatternConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$SecurityProviderConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$ShortConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$StringConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$UriConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$UrlConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$UuidConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.validation.validators.RequiredValidator",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.visitors.PluginAttributeVisitor",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.visitors.PluginBuilderAttributeVisitor",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.visitors.PluginConfigurationVisitor",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.plugins.visitors.PluginElementVisitor",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.config.xml.XmlConfigurationFactory",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.impl.Log4jContextFactory",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.layout.PatternLayout",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.layout.PatternLayout$Builder",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.lookup.Log4jLookup",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.pattern.MessagePatternConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.pattern.DatePatternConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.pattern.LevelPatternConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.pattern.LineSeparatorPatternConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.pattern.LoggerPatternConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.pattern.ThreadNamePatternConverter",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.core.util.ExecutorServices",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.message.DefaultFlowMessageFactory",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name": "org.apache.logging.log4j.message.ReusableMessageFactory",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"com.amazonaws.services.lambda.runtime.LambdaRuntime",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"java.lang.Void",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"java.util.Collections$UnmodifiableMap",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"jdk.internal.module.IllegalAccessLogger",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"sun.misc.Unsafe",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"com.amazonaws.services.lambda.runtime.LambdaRuntime",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"com.amazonaws.services.lambda.runtime.LambdaLogger",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"com.amazonaws.services.lambda.runtime.LambdaRuntimeInternal",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"com.google.common.jimfs.SystemJimfsFileSystemProvider",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"io.confluent.kafka.schemaregistry.client.rest.entities.Schema",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"io.confluent.kafka.schemaregistry.client.rest.entities.SchemaReference",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"io.confluent.kafka.schemaregistry.client.rest.entities.SubjectVersion",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"io.confluent.kafka.schemaregistry.client.rest.entities.SchemaString",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"io.confluent.kafka.schemaregistry.client.rest.entities.ServerClusterId",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    },
+    {
+        "name":"io.confluent.kafka.schemaregistry.client.rest.entities.ErrorMessage",
+        "allDeclaredConstructors": true,
+        "allPublicConstructors": true,
+        "allDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredClasses": true,
+        "allPublicClasses": true
+    }
+]

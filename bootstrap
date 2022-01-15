@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# shellcheck disable=SC2039
+set -euo pipefail
+./schema-snowflake-converter-amazonlinux
